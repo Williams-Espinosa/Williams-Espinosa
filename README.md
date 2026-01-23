@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Williams Espinosa</h1>
-<h3 align="center">Full Stack Software Engineer | Web & Mobile Developer</h3>
-<p align="center">
-I build end-to-end applications: from intuitive user interfaces to scalable backend systems 🚀
-</p>
+<h1 align="center">Hello, I'm Williams Espinosa</h1>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 ---
 
 ## 💫 About Me
 
-🔭 I’m currently building full stack and mobile applications, covering frontend, backend, and cloud services  
-👯 I’m open to collaborating on open-source projects related to full stack, mobile, or cloud development  
-🤝 I’m interested in improving my skills in DevOps, CI/CD pipelines, and cloud-native architectures  
-🌱 Currently learning Docker, microservices, GraphQL, and cloud security  
-💬 Ask me about frontend frameworks, backend APIs, databases, and authentication (JWT, OAuth)  
-⚡ Fun fact: I enjoy connecting frontend and backend pieces to create complete products 😄  
+🔭 **Professional Focus:** Full Stack Developer dedicated to building web and mobile applications, specializing in integrating intuitive interfaces with high-performance backend architectures.
+🚀 **Mobile Specialization:** Currently expanding my tech stack into mobile development to deliver comprehensive cross-platform solutions.
+🛡️ **Cybersecurity Vision:** Embarking on a self-taught journey in Information Security to design and deploy robust, resilient infrastructures.
+💻 **Development Environment:** **Linux** power user, leveraging its versatility and performance to optimize development workflows and security auditing.
+👯 **Collaboration:** Interested in contributing to open-source projects involving scalable architectures, mobile development, or cloud services.
+🌱 **Continuous Learning:** Specializing in **Rust**, Microservices architecture, and advanced Cloud Security.
+💬 **Consultations:** Available to discuss frontend frameworks, API design, database management, and authentication protocols (JWT, OAuth).
+⚡ **Fun Fact:** I am passionate about the engineering process of seamlessly connecting frontend and backend components to bring complex digital products to life.
 
 ---
 
 ## 🌐 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williams-espinosa-lopez/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w.espinosa.it@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/529601152138)
 
 ---
 
@@ -29,21 +29,20 @@ I build end-to-end applications: from intuitive user interfaces to scalable back
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ### 🔹 Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -58,19 +57,21 @@ I build end-to-end applications: from intuitive user interfaces to scalable back
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+### 🎨 Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
 ### 🔹 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
