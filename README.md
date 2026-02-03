@@ -1,23 +1,27 @@
 <h1 align="center">Hello, I'm Williams Espinosa</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 ---
 
 ## 💫 About Me
 
-🔭 **Professional Focus:** Full Stack Developer dedicated to building web and mobile applications, specializing in integrating intuitive interfaces with high-performance backend architectures.
-🚀 **Mobile Specialization:** Currently expanding my tech stack into mobile development to deliver comprehensive cross-platform solutions.
-🛡️ **Cybersecurity Vision:** Embarking on a self-taught journey in Information Security to design and deploy robust, resilient infrastructures.
-💻 **Development Environment:** **Linux** power user, leveraging its versatility and performance to optimize development workflows and security auditing.
-👯 **Collaboration:** Interested in contributing to open-source projects involving scalable architectures, mobile development, or cloud services.
-🌱 **Continuous Learning:** Specializing in **Rust**, Microservices architecture, and advanced Cloud Security.
-💬 **Consultations:** Available to discuss frontend frameworks, API design, database management, and authentication protocols (JWT, OAuth).
-⚡ **Fun Fact:** I am passionate about the engineering process of seamlessly connecting frontend and backend components to bring complex digital products to life.
+#🔭 **Professional Focus:** Full Stack Developer dedicated to building web and mobile applications, specializing in integrating intuitive interfaces with high-performance backend architectures.
+#🚀 **Mobile Specialization:** Currently expanding my tech stack into mobile development to deliver comprehensive cross-platform solutions.
+#🛡️ **Cybersecurity Vision:** Embarking on a self-taught journey in Information Security to design and deploy robust, resilient infrastructures.
+#💻 **Development Environment:** **Linux** power user, leveraging its versatility and performance to optimize development workflows and security auditing.
+#👯 **Collaboration:** Interested in contributing to open-source projects involving scalable architectures, mobile development, or cloud services.
+#🌱 **Continuous Learning:** Specializing in **Rust**, Microservices architecture, and advanced Cloud Security.
+#💬 **Consultations:** Available to discuss frontend frameworks, API design, database management, and authentication protocols (JWT, OAuth).
+#⚡ **Fun Fact:** I am passionate about the engineering process of seamlessly connecting frontend and backend components to bring complex digital products to life.
+
 
 ---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williams-espinosa-lopez/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wespinosa.dev)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@wespinosa.dev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61587191944161)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w.espinosa.it@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/529601152138)
 
@@ -34,11 +38,19 @@
 
 ---
 
-### 🔹 Backend
+### 🔹 Backend & Systems
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### 🔹 Web Servers
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
@@ -56,26 +68,21 @@
 
 ---
 
-### 🎨 Design
-
+### 🎨 Design & Documentation
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+![PlantUML](https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=uml&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
 ### 🔹 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Williams-Espinosa&theme=dark&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Williams-Espinosa&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Williams-Espinosa&layout=compact&theme=dark&hide_border=true)
 
 ---
 
