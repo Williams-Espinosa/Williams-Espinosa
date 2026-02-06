@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Williams Espinosa</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">TI Engineer</h3>
 
 ---
 
@@ -73,8 +73,6 @@
 ---
 
 ### 🔹 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
