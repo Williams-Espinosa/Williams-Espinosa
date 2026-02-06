@@ -10,7 +10,6 @@
 #🛡️ **Cybersecurity Vision:** Embarking on a self-taught journey in Information Security to design and deploy robust, resilient infrastructures.
 #💻 **Development Environment:** **Linux** power user, leveraging its versatility and performance to optimize development workflows and security auditing.
 #👯 **Collaboration:** Interested in contributing to open-source projects involving scalable architectures, mobile development, or cloud services.
-#🌱 **Continuous Learning:** Specializing in **Rust**, Microservices architecture, and advanced Cloud Security.
 #💬 **Consultations:** Available to discuss frontend frameworks, API design, database management, and authentication protocols (JWT, OAuth).
 #⚡ **Fun Fact:** I am passionate about the engineering process of seamlessly connecting frontend and backend components to bring complex digital products to life.
 
@@ -33,8 +32,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -43,7 +40,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
