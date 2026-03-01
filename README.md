@@ -71,17 +71,25 @@
 
 ### 🔹 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-## 📄 Licencia
-
-Este proyecto es de uso personal.
----
-> 💻 *"Crea el presente, codifica el futuro."*  
-> Desarrollado por **Williams-Espinosa** © 2026 — Todos los derechos reservados.
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Williams-Espinosa&icon=2&color=0)](https://visitcount.itsvg.in)
+## 📄 Licencia
+
+![Licencia: Privada](https://img.shields.io/badge/Licencia-No_Comercial-red?style=for-the-badge)
+---
+
+## Propiedad Intelectual
+
+Todo el contenido de este repositorio, incluyendo el código fuente, diseño gráfico, está protegido por las leyes de propiedad intelectual.
+
+* **Uso permitido:** Consulta, aprendizaje y exhibición personal.
+* **Prohibiciones:** Se prohíbe estrictamente la copia parcial o total para uso comercial, la reventa del software.
+
+> ###  *"Crea el presente, codifica el futuro."*
+> © 2026 **Williams-Espinosa**. Todos los derechos reservados.
+
+---
