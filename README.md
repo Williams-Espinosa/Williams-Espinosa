@@ -77,18 +77,6 @@
 
 ---
 
-## 📄 Licencia
-
-![Licencia: Privada](https://img.shields.io/badge/Licencia-No_Comercial-red?style=for-the-badge)
----
-
-## Propiedad Intelectual
-
-Todo el contenido de este repositorio, incluyendo el código fuente, diseño gráfico, está protegido por las leyes de propiedad intelectual.
-
-* **Uso permitido:** Consulta, aprendizaje y exhibición personal.
-* **Prohibiciones:** Se prohíbe estrictamente la copia parcial o total para uso comercial, la reventa del software.
-
 > ###  *"Crea el presente, codifica el futuro."*
 > © 2026 **Williams-Espinosa**. Todos los derechos reservados.
 
