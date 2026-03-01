@@ -5,13 +5,17 @@
 
 ## 💫 About Me
 
-#🔭 **Professional Focus:** Full Stack Developer dedicated to building web and mobile applications, specializing in integrating intuitive interfaces with high-performance backend architectures.
-#🚀 **Mobile Specialization:** Currently expanding my tech stack into mobile development to deliver comprehensive cross-platform solutions.
-#🛡️ **Cybersecurity Vision:** Embarking on a self-taught journey in Information Security to design and deploy robust, resilient infrastructures.
-#💻 **Development Environment:** **Linux** power user, leveraging its versatility and performance to optimize development workflows and security auditing.
-#👯 **Collaboration:** Interested in contributing to open-source projects involving scalable architectures, mobile development, or cloud services.
-#💬 **Consultations:** Available to discuss frontend frameworks, API design, database management, and authentication protocols (JWT, OAuth).
-#⚡ **Fun Fact:** I am passionate about the engineering process of seamlessly connecting frontend and backend components to bring complex digital products to life.
+🔭 **Professional Focus:** Full Stack Developer focused on designing and building scalable web and mobile applications, integrating intuitive user interfaces with high-performance backend architectures and strong software architecture principles.
+
+🚀 **Mobile Development:** Currently expanding my expertise in mobile development to deliver robust, cross-platform solutions, prioritizing smooth and consistent user experiences.
+
+💻 **Development Environment:** **Linux** user, leveraging its flexibility and performance to optimize development workflows, enhance system efficiency, and strengthen deployment processes.
+
+👯 **Collaboration:** Interested in contributing to open-source projects involving scalable architectures, mobile applications, and cloud-based solutions.
+
+💬 **Consultation Areas:** Frontend frameworks, API design (REST), SQL database modeling and management, and implementation of authentication and authorization systems (JWT, OAuth).
+
+⚡ **Fun Fact:** Passionate about the engineering behind seamless frontend and backend integration, transforming complex ideas into solid, fully functional digital products.
 
 
 ---
